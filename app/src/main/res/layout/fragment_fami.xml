@@ -1,0 +1,27 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.anibalosorio.colombiaturisticavfinal.FamiFragment">
+
+    <LinearLayout
+        style="@style/linearLayoutStyle">
+        <TextView
+            style="@style/textViewStyle.Title"
+            android:text="@string/fami"/>
+        <ImageView
+            style="@style/imageViewStyle"
+            android:src="@drawable/parque"/>
+        <TextView
+            style="@style/textViewStyle.Content"
+            android:text="@string/descripcionFami"/>
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/mapa"
+            android:id="@+id/mpfami"/>
+
+    </LinearLayout>
+
+</FrameLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Colombia Turistica</string>
+    <string name="mturismo">Sitios Turísticos</string>
+    <string name="mhoteles">Hoteles</string>
+    <string name="mbares">Bares</string>
+    <string name="mapa">Ver en mapa</string>
+
+
+    <string name="parque">Parque Principal</string>
+    <string name="descripcionParque">El parque principal del municipio de Hispania, tiene como
+    gran atrativo sus lindos Samanes.</string>
+    <string name="iglesia">Iglesia Nuestra Señora de Las Mercedes</string>
+    <string name="descripcionIglesia">La población del minicipio es en su mayoría católica
+    y adornan con gran elegancia su templo.</string>
+    <string name="finca">Finca Hoteles</string>
+    <string name="descripcionFinca">Las finca hoteles en el municipio de Hispania, son un gran
+    atractivo turistico por su comodidad y cercania a la naturaleza.</string>
+    <string name="kiosco">El Kiosco</string>
+    <string name="descripcionKiosco">Construcción emblematíca del municipio donde reposan grandes
+        historias de la población.</string>
+    <string name="barra">La Barra</string>
+    <string name="descripcionBarra">Discoteca concurrida, se caracteriza por tomar los pedidos
+        en la barra.</string>
+    <string name="talanquera">La Talanquera</string>
+    <string name="descripcionTalanquera">Establecimiento que en las noches funciona como discoteca
+        y en el día ofrce el servicio de restaurante.</string>
+    <string name="lago">Villa del Lago</string>
+    <string name="descripcionLago">Finca hotel ubicado en la vereda la palmira, se caracteriza por sus lagos.</string>
+    <string name="fami">Fami Hotel</string>
+    <string name="descripcionFami">Hotel familiar ubicado en el parque principal del municipio.</string>
+    <string name="sofia">Villa Sofía</string>
+    <string name="descripcionSofia">Finca hotel ubicado en la vereda el silencio, con vista al pueblo.</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

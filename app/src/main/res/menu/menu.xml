@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/mTurismo"
+        android:title="@string/mturismo"/>
+    <item
+        android:id="@+id/mHoteles"
+        android:title="@string/mhoteles"/>
+    <item
+        android:id="@+id/mBares"
+        android:title="@string/mbares"/>
+
+</menu>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Colombia Tourist</string>
+    <string name="parque">Principal Park</string>
+    <string name="descripcionParque">The main park of the municipality of Hispania, is great
+        atrativo their cute Samanes.</string>
+    <string name="iglesia">Church Nuestra Señora de Las Mercedes</string>
+    <string name="descripcionIglesia">The township population is mostly Catholic and decorated
+        with great elegance his temple.</string>
+    <string name="finca">Estate Hotels.</string>
+    <string name="descripcionFinca">The estate hotels in the city of Hispania, finca are a great
+     attraction for comfort and closeness to nature.</string>
+    <string name="kiosco">The kiosk</string>
+    <string name="descripcionKiosco">Emblematic building of the municipality where lie large
+         stories of people.</string>
+    <string name="barra">The Bar</string>
+    <string name="descripcionBarra">Crowded nightclub, is characterized by taking orders
+         on the bar.</string>
+    <string name="talanquera">The Talanquera</string>
+    <string name="descripcionTalanquera">Establishment in a disco at night
+         and on the day ofrce restaurant service.</string>
+    <string name="lago">Lake Villa</string>
+    <string name="descripcionLago">State hotel located on the sidewalk the palmyra, is characterized by its lakes.</string>
+    <string name="fami">Fami Hotel</string>
+    <string name="descripcionFami">family hotel located in the main park of the town.</string>
+    <string name="sofia">Villa Sofía</string>
+    <string name="descripcionSofia">State hotel located on the sidewalk the silence, overlooking the village.</string>
+</resources>
